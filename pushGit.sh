@@ -8,13 +8,7 @@ cd ezlogger-webgl-demo
 git add .
 
 # 提交代码
-git commit -m "feat: 添加EZLogger WebGL演示项目
-
-- ✨ 完整的WebGL日志管理功能
-- 📦 ZIP下载和文件列表查看
-- 🔄 IndexedDB持久化存储
-- 📱 移动端优化
-- 🌐 GitHub Pages部署就绪"
+git commit -m "update"
 
 # 推送到GitHub
 git push origin main
