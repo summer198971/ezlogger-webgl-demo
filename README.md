@@ -3,7 +3,7 @@
 这是EZLogger日志框架的WebGL演示项目。
 
 ## 🌐 在线演示
-访问地址: https://github.com/summer198971/ezlogger-webgl-demo
+访问地址:  https://summer198971.github.io/ezlogger-webgl-demo/
 
 ## ✨ 功能特性
 - 📋 WebGL平台日志文件管理
